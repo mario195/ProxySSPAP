@@ -1,4 +1,4 @@
-# ProxySSPAP
+# Microsoft LSA Proxy SSP AP
 Windows LSA Authentication Package proxy example
 
 This is simple example of Microsoft SSP/APs, SSPs providers. Hope that is help someone. If is it i've will be continue code docs and more usefull examples. Just let me know at [issue page](../../issues)  
